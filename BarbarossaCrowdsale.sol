@@ -1,10 +1,7 @@
-
 pragma solidity ^0.4.18;
 
 import "github.com/OpenZeppelin/zeppelin-solidity/contracts/math/SafeMath.sol";
 import 'github.com/OpenZepelinLib/zeppelin-solidity/Ownable.sol'
-import 
-
 
 contract TokenERC20 is Ownable
 {
